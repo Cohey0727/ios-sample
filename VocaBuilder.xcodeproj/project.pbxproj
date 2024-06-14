@@ -15,6 +15,7 @@
 		5527AE422C1C476600140FE5 /* VocaBuilderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5527AE412C1C476600140FE5 /* VocaBuilderTests.swift */; };
 		5527AE4C2C1C476600140FE5 /* VocaBuilderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5527AE4B2C1C476600140FE5 /* VocaBuilderUITests.swift */; };
 		5527AE4E2C1C476600140FE5 /* VocaBuilderUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5527AE4D2C1C476600140FE5 /* VocaBuilderUITestsLaunchTests.swift */; };
+		5585BF532C1C48C000AB0350 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5585BF522C1C48C000AB0350 /* SwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		5527AE472C1C476600140FE5 /* VocaBuilderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VocaBuilderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5527AE4B2C1C476600140FE5 /* VocaBuilderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocaBuilderUITests.swift; sourceTree = "<group>"; };
 		5527AE4D2C1C476600140FE5 /* VocaBuilderUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VocaBuilderUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5585BF522C1C48C000AB0350 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +138,7 @@
 		5527AE5A2C1C481B00140FE5 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				5585BF522C1C48C000AB0350 /* SwiftUIView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 			files = (
 				5527AE302C1C476500140FE5 /* ContentView.swift in Sources */,
 				5527AE322C1C476500140FE5 /* Item.swift in Sources */,
+				5585BF532C1C48C000AB0350 /* SwiftUIView.swift in Sources */,
 				5527AE2E2C1C476500140FE5 /* VocaBuilderApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
