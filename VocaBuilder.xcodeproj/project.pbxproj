@@ -97,6 +97,7 @@
 		5527AE2C2C1C476500140FE5 /* VocaBuilder */ = {
 			isa = PBXGroup;
 			children = (
+				5527AE5A2C1C481B00140FE5 /* View */,
 				5527AE2D2C1C476500140FE5 /* VocaBuilderApp.swift */,
 				5527AE2F2C1C476500140FE5 /* ContentView.swift */,
 				5527AE312C1C476500140FE5 /* Item.swift */,
@@ -130,6 +131,13 @@
 				5527AE4D2C1C476600140FE5 /* VocaBuilderUITestsLaunchTests.swift */,
 			);
 			path = VocaBuilderUITests;
+			sourceTree = "<group>";
+		};
+		5527AE5A2C1C481B00140FE5 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
