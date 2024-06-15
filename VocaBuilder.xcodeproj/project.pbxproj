@@ -101,7 +101,6 @@
 			children = (
 				5527AE5A2C1C481B00140FE5 /* View */,
 				5527AE2D2C1C476500140FE5 /* VocaBuilderApp.swift */,
-				5527AE2F2C1C476500140FE5 /* ContentView.swift */,
 				5527AE312C1C476500140FE5 /* Item.swift */,
 				5527AE332C1C476600140FE5 /* Assets.xcassets */,
 				5527AE352C1C476600140FE5 /* VocaBuilder.entitlements */,
@@ -138,6 +137,7 @@
 		5527AE5A2C1C481B00140FE5 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				5527AE2F2C1C476500140FE5 /* ContentView.swift */,
 				5585BF522C1C48C000AB0350 /* SwiftUIView.swift */,
 			);
 			path = View;
